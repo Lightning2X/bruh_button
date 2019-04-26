@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/schag.DESKTOP-A718TV0/source/repos/bruh moment/bruh moment/Content/button.png","C:/Users/schag.DESKTOP-A718TV0/source/repos/bruh moment/bruh moment/Content/bin/Windows/Content/button.xnb","TextureProcessor","Texture2DContent",44976,378285,0.1798155
+"C:/Users/schag.DESKTOP-A718TV0/source/repos/bruh moment/bruh moment/Content/sfx.wav","C:/Users/schag.DESKTOP-A718TV0/source/repos/bruh moment/bruh moment/Content/bin/Windows/Content/sfx.xnb","SoundEffectProcessor","SoundEffectContent",200782,200809,0.2217723

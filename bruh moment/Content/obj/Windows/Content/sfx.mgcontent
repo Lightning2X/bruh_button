@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/schag.DESKTOP-A718TV0/source/repos/bruh moment/bruh moment/Content/sfx.wav</SourceFile>
+  <SourceTime>2019-04-26T18:18:04.494444+02:00</SourceTime>
+  <DestFile>C:/Users/schag.DESKTOP-A718TV0/source/repos/bruh moment/bruh moment/Content/bin/Windows/Content/sfx.xnb</DestFile>
+  <DestTime>2019-04-26T18:28:18.7875954+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

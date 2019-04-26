@@ -1,0 +1,29 @@
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\bruh moment.exe
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\bruh moment.pdb
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\obj\x86\Debug\bruh moment.csprojAssemblyReference.cache
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\obj\x86\Debug\bruh moment.csproj.CoreCompileInputs.cache
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\obj\x86\Debug\bruh moment.csproj.CopyComplete
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\obj\x86\Debug\bruh moment.exe
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\obj\x86\Debug\bruh moment.pdb
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\Content\button.xnb
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\Content\sfx.xnb
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\bruh moment.exe.manifest
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\bin\Windows\x86\Debug\bruh moment.application
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\obj\x86\Debug\bruh moment.exe.manifest
+C:\Users\schag.DESKTOP-A718TV0\source\repos\bruh moment\bruh moment\obj\x86\Debug\bruh moment.application
